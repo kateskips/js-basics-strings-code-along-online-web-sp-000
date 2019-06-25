@@ -1,3 +1,3 @@
 const currentUser = 'Grace Hopper';
 
-let welcomeMessage = 'Welcome to Flatnook, '
+const welcomeMessage = 'Welcome to Flatbook, ';
